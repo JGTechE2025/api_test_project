@@ -1,0 +1,11 @@
+# 忽略 pytest 的快取資料夾
+.pytest_cache/
+
+# 忽略 PyCharm 的設定資料夾
+.idea/
+
+# 忽略 .iml 檔案
+*.iml
+
+# 忽略 XML 檔案
+*.xml
