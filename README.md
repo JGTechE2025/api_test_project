@@ -36,3 +36,6 @@ api_test_project/
 - pytest
 - requests
 - pipenv（管理虛擬環境與套件）
+
+## 💡 備註
+- JSONPlaceholder 是一個免費假 API，POST/PUT/DELETE 雖然會返回成功，但資料實際並未變更。
