@@ -28,6 +28,7 @@ api_test_project/
 ├── Pipfile                       # pipenv 套件管理
 ├── Pipfile.lock                  # 套件版本鎖定
 ├── README.md                     # 專案說明文件
+├── .gitignore                    # 用來設定 Git 忽略的檔案或資料夾
 └── run.py                        # 執行測試的程式
 ```
 
