@@ -19,7 +19,7 @@ api_test_project/
 │   └── comments_api.py           # /comments 的 API 操作封裝
 ├── tests/                        # pytest 測試腳本
 │   ├── __init__.py               # 讓 tests 資料夾可作為 Python 模組匯入（非必要但建議）
-│   ├── test_users.py             # 測試 /users API
+│   ├── test_user.py             # 測試 /users API
 │   ├── test_posts.py             # 測試 /posts API
 │   └── test_comments.py          # 測試 /comments API
 ├── utils/
