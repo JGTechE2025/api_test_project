@@ -29,6 +29,7 @@ api_test_project/
 ├── Pipfile.lock                  # 套件版本鎖定
 ├── README.md                     # 專案說明文件
 └── run.py                        # 執行測試的程式
+```
 
 ## 📦 使用套件
 - Python 3.10
