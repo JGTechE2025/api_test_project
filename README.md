@@ -1,8 +1,8 @@
 # API 自動化測試專案（使用 pytest + requests）
 
-> ### ⚠️ 專案說明 / Project Note
+> ### ⚠️ 專案說明 
 > 本專案為早期學習 API 自動化測試架構的練習紀錄，目前已停止維護。
-> **最新 Web UI 自動化hk4專案實作請參考：[👉 https://github.com/JGTechE2025/web-playwright-automation-framework]**
+> **最新 Web UI 自動化測試專案實作請參考：[👉 https://github.com/JGTechE2025/web-playwright-automation-framework]**
 > 
 > **新專案亮點：**
 > * 導入 **Playwright** 非同步處理，大幅提升執行效率。
