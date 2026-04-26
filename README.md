@@ -1,5 +1,17 @@
 # API 自動化測試專案（使用 pytest + requests）
 
+> ### ⚠️ 專案說明 / Project Note
+> 本專案為早期學習 API 自動化測試架構的練習紀錄，目前已停止維護。
+> **最新 Web UI 自動化hk4專案實作請參考：[👉 https://github.com/JGTechE2025/web-playwright-automation-framework]**
+> 
+> **新專案亮點：**
+> * 導入 **Playwright** 非同步處理，大幅提升執行效率。
+> * 整合 **GitHub Actions CI/CD**，解決跨平台環境與路徑配置挑戰。
+> * 實作 **Allure Report** 進階報表，包含失敗自動截圖與環境變數注入。
+
+---
+(以下才是舊的內容)
+
 本專案使用 [JSONPlaceholder](https://jsonplaceholder.typicode.com/) 提供的 RESTful API 作為測試目標，採用 Python + `pytest` 測試框架，結合 `requests` 進行 API 自動化測試。
 
 ## ✅ 專案目標
